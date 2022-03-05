@@ -1,0 +1,70 @@
+{
+    "Product":[{
+        "p_name":"Mobile",
+        "p_id":"p01",
+        "description":"Mobile phone",
+        "subCatagory":[
+            {
+                "s_id":"M501",
+                "company":"Samsung",
+                "price":"15000",
+                "s_description":"Lorem ipsum dolor sit amet,consectetur adipiscing elit."
+            },
+            {
+                "s_id":"M502",
+                "company":"Redmi",
+                "price":"19000",
+                "s_description":"Lorem ipsum dolor sit amet,consectetur adipiscing elit."
+            },
+            {
+                "s_id":"M503",
+                "company":"Vivo",
+                "price":"20000",
+                "s_description":"Lorem ipsum dolor sit amet,consectetur adipiscing elit."
+            }
+        ]
+        
+    },
+    {
+        "p_name":"Tablet",
+        "p_id":"P02",
+        "description":"Tab",
+        "subCatagory":[{
+            "s_id":"T07",
+            "company":"Lenevo",
+            "price":"40000",
+            "s_description":"Lorem ipsum dolor sit amet,consectetur adipiscing elit."
+
+        },
+        {
+        "s_id":"T08",
+        "company":"Apple",
+        "price":"60000",
+        "s_description":"Lorem ipsum dolor sit amet,consectetur adipiscing elit."
+
+
+        }
+        
+        ]
+    },
+    {
+        "p_name":"Laptop",
+        "p_id":"P03",
+        "description":"Laptop",
+        "subCatagory":[
+            {
+                "s_id":"L01",
+                "company":"Hp",
+                "price":"45000",
+                "s_description":"Lorem ipsum dolor sit amet,consectetur adipiscing elit."
+            },
+            {
+                "s_id":"L02",
+                "company":"Dell",
+                "price":"55000",
+                "s_description":"Lorem ipsum dolor sit amet,consectetur adipiscing elit."
+            }
+        ]
+    }
+]
+}

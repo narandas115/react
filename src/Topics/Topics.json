@@ -1,0 +1,121 @@
+{
+    "Topics":[{
+
+                 "t_name":"flowers",
+                 "t_id":"T01",
+                 "description":"flowers",
+                 "SubTopic":[{
+                               "s_id":"ST01",
+                               "subName":"Rose",
+                               "s_img":"../../../image/rose.jpg",
+                               "s_des":"A rose is a woody perennial flowering plant.",
+                               "s_description":"A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and tens of thousands of cultivars.They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles."
+                             },
+            
+                              {
+                    
+                                "s_id":"ST02",
+                                "subName":"Jasmine",
+                                "s_img":"../../../image/jasmine.jpg",
+                                "s_des":"Jasminum is a genus of shrubs and vines in the olive family.",
+                                "s_description":"Jasmine (taxonomic name Jasminum is a genus of shrubs and vines in the olive family (Oleaceae). It contains around 200 species native to tropical and warm temperate regions of Eurasia, Africa, and Oceania. Jasmines are widely cultivated for the characteristic fragrance of their flowers. A number of unrelated plants contain the word jasmine in their common names (see Other plants called jasmine."
+                             },
+                             {
+                                "s_id":"ST03",
+                                "subName":"Lily",
+                                "s_img":"../../../image/lily.jpg",
+                                "s_des":"Lilies are tall perennials ranging in height from 2 to 6 ft.",
+                                "s_description":"Lilies are tall perennials ranging in height from 2 to 6 ft (60to180 cm). They form naked or tunicless scaly underground bulbs which are their organs of perennation. In some North American species the base of the bulb develops into rhizomes, on which numerous small bulbs are found. Some species develop stolons. Most bulbs are buried deep in the ground, but a few species form bulbs near the soil surface. Many species form stem-roots. With these, the bulb grows naturally at some depth in the soil, and each year the new stem puts out adventitious roots above the bulb as it emerges from the soil. These roots are in addition to the basal roots that develop at the base of the bulb."
+                             }
+                           ]
+                },
+{
+                 "t_name":"Fruits",
+                 "t_id":"T02",
+                 "description":"Fruits",
+                 "SubTopic":[{
+                                  "s_id":"ST04",
+                                  "subName":"Apple",
+                                  "s_img":"../../../image/apple.jpg",
+                                  "s_des":"Apple is a fruit of the domesticated tree Malus domestica.",
+                                  "s_description":"apple, (Malus domestica), fruit of the domesticated tree Malus domestica (family Rosaceae), one of the most widely cultivated tree fruits. The apple is a pome (fleshy) fruit, in which the ripened ovary and surrounding tissue both become fleshy and edible. The apple flower of most varieties requires cross-pollination for fertilization. When harvested, apples are usually roundish, 5to10 cm (2to4 inches) in diameter, and some shade of red, green, or yellow in colour; they vary in size, shape, and acidity depending on the variety."
+                                },
+                                {
+                                    "s_id":"ST05",
+                                    "subName":"Mango",
+                                    "s_img":"../../../image/mango.jpg",
+                                    "s_des":"A mango is an edible stone fruit produced by the tropical tree.",
+                                    "s_description":"A mango is an edible stone fruit produced by the tropical tree Mangifera indica which is believed to have originated from the region between northwestern Myanmar, Bangladesh, and northeastern India."
+                                },
+                                {
+                                    "s_id":"ST06",
+                                    "subName":"Banana",
+                                    "s_img":"../../../image/banana.jpg",
+                                    "s_des":"A banana is an elongated, edible fruit botanically.",
+                                    "s_description":"A banana is an elongated, edible fruit botanically a berry produced by several kinds of large herbaceous flowering plants in the genus Musa.[3] In some countries, bananas used for cooking may be called plantains, distinguishing them from dessert bananas. The fruit is variable in size, color, and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind, which may be green, yellow, red, purple, or brown when ripe."
+                                }
+                            ]
+                 },
+                {
+                 "t_name":"Birds",
+                 "t_id":"T03",
+                 "description":"Birds",
+                 "SubTopic":[{
+                             "s_id":"ST07",
+                             "subName":"Parrot",
+                             "s_img":"../../../image/Parrot.jpg",
+                             "s_des":"Parrots is the most intelligent bird.",
+                             "s_description":"Parrots, along with ravens, crows, jays, and magpies, are among the most intelligent birds, and the ability of some species to imitate human speech enhances their popularity as pets. Trapping wild parrots for the pet trade, as well as hunting, habitat loss, and competition from invasive species, has diminished wild populations, with parrots being subjected to more exploitation than any other group of birds. Measures taken to conserve the habitats of some high-profile charismatic species have also protected many of the less charismatic species living in the same ecosystems."
+                            },
+                            {
+                             "s_id":"ST08",
+                             "subName":"Eagle",
+                             "s_img":"../../../image/eagle.jpg",
+                             "s_des":"Eagle is the common name for many large birds.",
+                             "s_description":"Eagle is the common name for many large birds of prey of the family Accipitridae. Eagles belong to several groups of genera, some of which are closely related. Most of the 60 species of eagle are from Eurasia and Africa.[1] Outside this area, just 14 species can be found—2 in North America, 9 in Central and South America, and 3 in Australia. Eagles are not a natural group but denote essentially any bird of prey large enough to hunt sizeable (about 50 cm long or more overall) vertebrate prey."
+                
+                            },
+                            {
+                             "s_id":"ST09",
+                             "subName":"Pigeon",
+                             "s_img":"../../../image/pigeon.jpg",
+                             "s_des":"The domestic pigeon is a pigeon subspecies that was derived from the rock dove.",
+                             "s_description":"The domestic pigeon (Columba livia domestica) is a pigeon subspecies that was derived from the rock dove (also called the rock pigeon). The rock pigeon is the world's oldest domesticated bird. Mesopotamian cuneiform tablets mention the domestication of pigeons more than 5,000 years ago, as do Egyptian hieroglyphics.[2] Research suggests that domestication of pigeons occurred as early as 10,000 years ago."
+                
+                            }
+                        ]
+                },
+   {
+                    "t_name":"Animals",
+                    "t_id":"T04",
+                    "description":"Animals",
+                    "SubTopic":[{
+                                 "s_id":"ST10",
+                                 "subName":"Tiger",
+                                 "s_img":"../../../image/tiger.jpg",
+                                 "s_des":"The tiger become independent and leave their mother's home range to establish their own.",
+                                 "s_description":"The tiger (Panthera tigris) is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside. An apex predator, it primarily preys on ungulates such as deer and wild boar. It is territorial and generally a solitary but social predator, requiring large contiguous areas of habitat, which support its requirements for prey and rearing of its offspring. Tiger cubs stay with their mother for about two years, then become independent and leave their mother's home range to establish their own."
+                                },
+                                {"s_id":"ST11",
+                                 "subName":"Dog",
+                                 "s_img":"../../../image/dogg.jpg",
+                                 "s_des":"The dog or domestic dog is a domesticate animal.",
+                                 "s_description":"The dog or domestic dog is a domesticated descendant of the wolf which is characterized by an upturning tail. The dog derived from an ancient, extinct wolf and the modern grey wolf is the dog's nearest living relative.[8] The dog was the first species to be domesticated,by hunter gatherers over 15,000 years ago,before the development of agriculture."
+                                },
+                                {
+                                 "s_id":"ST12",
+                                 "subName":"Cat",
+                                 "s_img":"../../../image/cat.jpg",
+                                 "s_des":"The cat is a domestic species of a small carnivorous mammal.",
+                                 "s_description":"The cat (Felis catus) is a domestic species of a small carnivorous mammal.It is the only domesticated species in the family Felidae and is often referred to as the domestic cat to distinguish it from the wild members of the family.A cat can either be a house cat, a farm cat or a feral cat; the latter ranges freely and avoids human contact."
+                                }
+                            ]
+                                
+                }
+            ]
+}
+                
+
+                
+
+    
